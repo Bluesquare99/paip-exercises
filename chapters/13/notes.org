@@ -1,0 +1,7 @@
+* Object Oriented Programming
+The NEW-ACCOUNT function returns a closure over three variables (name, balance, and interest rate). It encapsulates five messages to which an object can respond. When you pass an ACCOUNT object a message, it returns a function. 
+
+
+** Little Details
+An *instance variable* is one that is encapsulated in an object. A *class variable*, on the other hand, is shared by all instances of a class.
+

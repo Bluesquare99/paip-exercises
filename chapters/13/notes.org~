@@ -1,0 +1,3 @@
+* Object Oriented Programming
+** Little Details
+An *instance variable* is one that is encapsulated in an object. A *class variable*, on the other hand, is shared by all instances of a class.
